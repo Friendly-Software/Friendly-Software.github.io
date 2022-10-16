@@ -85,4 +85,5 @@ a span:nth-of-type(2) {
 
 .link {
   color: white;
+  text-decoration-line: none;
 }
